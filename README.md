@@ -120,4 +120,3 @@ YAML frontmatter — simpler to maintain.
 | Installation | Plugin marketplace | Copy to `.github/` in workspace |
 | Customisation | Plugin config | Edit Markdown directly |
 | Model | Claude only | Any Copilot-supported model |
-# feature-dev-vscode
