@@ -47,6 +47,7 @@ Or simply `/feature-dev` to start the guided workflow with no initial descriptio
 - Summarise what you understand the feature to be in 2–3 sentences and confirm
   with the user before moving on.
 
+
 **Output:** A clear, agreed feature statement.
 
 ---
@@ -180,6 +181,7 @@ Keep it concise. The user can dig into details if they need to.
 
 - **Don't skip phases.** The structure exists to catch problems early. Even for
   small features, at least do a quick pass through each phase.
+- **Complete each phase fully** Wait for user response before starting the next phase. Do not batch questions from different phases together. Do not read ahead.
 - **Pause for input.** Phases 1, 3, 4, and 6 should all wait for user
   confirmation before proceeding.
 - **Stay in scope.** Don't refactor adjacent code, add unrequested features, or
